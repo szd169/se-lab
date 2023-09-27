@@ -92,3 +92,4 @@ public class GT4500 implements SpaceShip {
   }
 
 }
+//Szerkesszük egy adott fájl adott sorát, majd véglegesítsük a változásokat (commit).
